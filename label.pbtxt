@@ -1,0 +1,15 @@
+item {
+   id: 1
+   name: 'and'
+}
+
+item {
+  id: 2
+  name: 'not'
+}
+
+item {
+  id: 3
+  name: 'or'
+}
+
